@@ -24,7 +24,7 @@ echo 'Added graphics setting on ~/.nanorc'
 echo ''
 
 echo '|°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°|'
-echo '| Add setting finish. Follow on GitHub Nanorc		|'
+echo '| Add setting finish. Follow on GitHub Nanorc		  |'
 echo '|_________________________________________________|'
 echo ''
 
